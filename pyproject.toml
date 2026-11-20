@@ -20,8 +20,10 @@ dependencies = [
     "nilearn>=0.14.1",
     "numpy>=2.5.3",
     "pydicom>=3.0.2",
+    "pydot>=4.0.1",
     "scipy>=1.18.1",
     "scipy-stubs~=1.18.1",
     "seaborn>=0.13.2",
+    "tensorflow>=2.21.0",
     "torch>=2.15.0",
 ]
